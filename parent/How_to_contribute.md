@@ -4,7 +4,7 @@
 
 ## How to Contribute to 2025-2026 Quant New Grad Full-time and Internship Positions🎓💼
 
-Thanks for contributing to the 2025-2026 Quant New Grad Full-time and Internship Positions repository! 
+Thanks for contributing to the 2025-2026 Quant New Grad, Full-time and Internship Positions repository! 
 We appreciate your help in maintaining and expanding the table of job openings for new grads.
 There is the master table in the All-Jobs.md with seperate individual tables for each type of roles.
 
